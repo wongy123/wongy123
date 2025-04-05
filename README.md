@@ -40,7 +40,7 @@ Single-page app that helps users estimate their water usage charges.
 > Future features: bill scanning, water-saving suggestions
 
 ### 🏠 **Home Assistant & Smart Home Lab**
-Custom-built smart home platform using Hyper-V, VLANs, and Pi-hole.  
+Custom-built smart home platform with automations and a beautiful dashboard.  
 **Focus:** Networking, automation, scripting, infrastructure
 
 ### 🛡️ **AFL++ Fuzz Testing (LibXML2)**
